@@ -2,6 +2,8 @@
 
 > AI/ML & Software Engineering Enthusiast | Backend Developer | Passionate About Scalable Systems
 
+Blending tech with thoughtfulness. Building towards a future in financial engineering.
+
 <!--
 
 - 🔭 I’m currently working on [project name]

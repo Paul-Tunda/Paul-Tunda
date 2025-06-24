@@ -4,6 +4,12 @@
 
 Blending tech with thoughtfulness. Building towards a future in financial engineering.
 
+### 🔧 Languages & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
 <!--
 
 - 🔭 I’m currently working on [project name]

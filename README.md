@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Paul!
+## Hi there 👋, I'm [Paul](https://github.com/Paul-Tunda)!
 
 > AI/ML & Software Engineering Enthusiast | Backend Developer | Passionate About Scalable Systems
 
